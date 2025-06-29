@@ -474,57 +474,62 @@ function SCRIPT_scene_4(size) {
     $("#launch-content").append(`
         <div class="box_title_content_pro">
             <div class="box_l_pro">
-                <div class="row" style="margin-top: calc(var(--index) * 1);">
-                    <div class="col-3">
-                        <div class="imgButtonGO button-interactive btn-menu" data-container="0">
-                            <img id="box_l_pro_img_1" src="img/element/1.png" style="width: 100%;">
+                <div class="row" style="margin-top: 60px;">
+                  <div class="col-3">
+                      <div class="imgButtonGO button-interactive btn-menu" data-container="0">
+                          <img id="box_l_pro_img_1" src="img/element/home/1.jpg" style="width: 100%;">
+                      </div>
+                  </div>
+                  <div class="col-3">
+                      <div class="imgButtonGO button-interactive btn-menu" data-container="17">
+                          <img id="box_l_pro_img_7" src="img/element/home/2.jpg" style="width: 100%; height: 100%;">
+                      </div>
+                  </div>
+                  <div class="col-3">
+                      <div class="imgButtonGO button-interactive btn-menu" data-container="5">
+                          <img id="box_l_pro_img_1" src="img/element/home/3.png" style="width: 100%;">
+                      </div>
+                  </div>
+                  <div class="col-3">
+                      <div class="imgButtonGO button-interactive btn-menu" data-container="14">
+                          <img id="box_l_pro_img_7" src="img/element/home/4.png" style="width: 100%; height: 100%;">
+                      </div>
+                  </div>
+              </div>
+                <div class="row col-12" style="justify-content: center; margin-top: 30px" >
+                    <center style="    display: grid;
+                    height: 100%;
+                    align-content: center;">
+                        <div class="title_head_1">
+                        ЕВАНГЕЛИЕ <br> ОБРАЗ<span class="load_litteral_animation" data-litteral1="А" data-litteral2="Ы">Ы</span> И ОБРАЗ<span class="load_litteral_animation" data-litteral1="Ы" data-litteral2="А">А</span>
                         </div>
-                    </div>
-                    <div class="col-6">
-                        <center style="    display: grid;
-                        height: 100%;
-                        align-content: center;">
-                            <div class="title_head_1">
-                            ЕВАНГЕЛИЕ <br> ОБРАЗ<span class="load_litteral_animation" data-litteral1="А" data-litteral2="Ы">Ы</span> И ОБРАЗ<span class="load_litteral_animation" data-litteral1="Ы" data-litteral2="А">А</span>
-                            </div>
-                            <div class="title_head_2">
-                            интерактивный духовно-просветительский проект<br> Севастопольского филиала РЭУ им.Г.В. Плеханова
-                            </div>
-                        </center>
-                    </div>
-                    <div class="col-3">
-                        <div class="imgButtonGO button-interactive btn-menu" data-container="17">
-                            <img id="box_l_pro_img_7" src="img/element/7.png" style="width: 100%; height: 100%;">
+                        <div class="title_head_2">
+                        интерактивный духовно-просветительский проект<br> Севастопольского филиала РЭУ им.Г.В. Плеханова
                         </div>
-                    </div>
+                    </center>
                 </div>
-                <div class="l_pro">
-                    <div class="l_pro_item">
-                        <div class="imgButtonGO button-interactive btn-menu" data-container="5">
-                            <img id="box_l_pro_img_2" src="img/element/2.png" class="l_pro_item_img">
-                        </div>
-                    </div>
-                    <div class="l_pro_item">
-                        <div class="imgButtonGO button-interactive btn-menu" data-container="14">
-                            <img id="box_l_pro_img_3" src="img/element/3.png" class="l_pro_item_img">
-                        </div>
-                    </div>
-                    <div class="l_pro_item">
-                        <div class="imgButtonGO button-interactive btn-menu" data-container="15">
-                            <img id="box_l_pro_img_4" src="img/element/4.png" class="l_pro_item_img">
-                        </div>
-                    </div>
-                    <div class="l_pro_item">
-                        <div class="imgButtonGO button-interactive btn-menu" data-container="16">
-                            <img id="box_l_pro_img_5" src="img/element/5.png" class="l_pro_item_img">
-                        </div>
-                    </div>
-                    <div class="l_pro_item">
-                        <div class="imgButtonGO button-interactive btn-menu" data-container="11">
-                            <img id="box_l_pro_img_6" src="img/element/6.png" class="l_pro_item_img">
-                        </div>
-                    </div>
-                </div>
+                <div class="row">
+                  <div class="col-3">
+                      <div class="imgButtonGO button-interactive btn-menu" data-container="15">
+                          <img id="box_l_pro_img_1" src="img/element/home/5.png" style="width: 100%;">
+                      </div>
+                  </div>
+                  <div class="col-3">
+                      <div class="imgButtonGO button-interactive btn-menu" data-container="16">
+                          <img id="box_l_pro_img_7" src="img/element/home/6.jpg" style="width: 100%; height: 100%;">
+                      </div>
+                  </div>
+                  <div class="col-3">
+                      <div class="imgButtonGO button-interactive btn-menu" data-container="11">
+                          <img id="box_l_pro_img_1" src="img/element/home/7.jpg" style="width: 100%;">
+                      </div>
+                  </div>
+                  <div class="col-3">
+                      <div class="imgButtonGO button-interactive btn-menu">
+                          <img id="box_l_pro_img_7" src="img/element/home/8.png" style="width: 100%; height: 100%;">
+                      </div>
+                  </div>
+              </div>
             </div>
         </div>
         `);

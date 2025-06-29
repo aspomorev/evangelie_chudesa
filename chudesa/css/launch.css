@@ -2160,8 +2160,10 @@ button.btn.home::after {
 .box_title_content .img_1,
 .box_title_content .img_2,
 .imgButtonGO {
+  padding: 5px;
   position: relative;
   cursor: var(--cursor_pointer);
+  height: 200px;
 }
 
 .box_title_content .img_1 img,
@@ -2171,6 +2173,7 @@ button.btn.home::after {
 .imgButtonGO img {
   transition: 0.3s;
   pointer-events: none;
+  height: 200px;
 }
 
 .box_title_content .img_2:hover::after,
