@@ -5291,25 +5291,13 @@ frontDefault = [
 const interFASE = [
   {
     logo: `
-            <img class="top_logo_pro" src="img/system/tretyakov_gallery.png">
-
-            <img class="top_logo_pro" src="img/system/Logotip_Novgorodskiy_muzey_kopia.png">
-
-            <img class="top_logo_pro" src="img/system/cNpasL6tEvA.jpg">
-
-
-            <img class="top_logo_pro" src="img/system/logoSVGblueWordnoColor.png">
-
-            <img class="top_logo_pro" src="img/system/russian_museum1.png">
-            <img class="top_logo_pro" src="img/system/aNbJyMpaNhs1_kopia.png">
-
-            <img class="top_logo_pro" src="img/system/Logo_bfss_dlya_prezentatsii_zoloto_kopia.png">
-
-            <img class="top_logo_pro" src="img/system/logo_RUS_300dpi_1_kopia.png">
-            <img class="top_logo_pro" src="img/system/logotip_TsAK_novy_2022_kopia.png">
-            <img class="top_logo_pro" src="img/system/gerb_Mariampol_varianty_v_kvadrate-06.png">
-
-            <img class="top_logo_pro" src="img/system/Grifon_logotip_zolotoy_kopia.png">
+            <img class="top_logo_pro" src="img/system/logo1.png" style="height: 100px" >
+            <img class="top_logo_pro" src="img/system/logo2.png" style="height: 70px">
+            <img class="top_logo_pro" src="img/system/logo3.png">
+            <img class="top_logo_pro" src="img/system/logo4.jpg">
+            <img class="top_logo_pro" src="img/system/logo5.png">
+            <img class="top_logo_pro" src="img/system/logo6.png">
+            <img class="top_logo_pro" src="img/system/logo7.png" style="height: 100px">
         `,
     menu: "",
     over: "",

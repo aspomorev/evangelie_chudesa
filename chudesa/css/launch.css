@@ -1759,6 +1759,11 @@ div#bar-top {
   align-items: flex-start;
 }
 
+#bar-top .logo {
+  display: flex;
+  align-items: center;
+}
+
 #bar-top .logo img {
   height: calc(var(--index) * 2);
   padding: 0 calc(var(--index) * 0.2);
