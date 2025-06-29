@@ -1,0 +1,126 @@
+/*https://transfonter.org/*/
+@font-face {
+    font-family: 'ALaRuss';
+    src: url('../font/ALaRuss.woff2') format('woff2'),
+        url('../font/ALaRuss.woff') format('woff'),
+        url('../font/ALaRuss.ttf') format('truetype'),
+        url('../font/ALaRuss.svg#ALaRuss') format('svg');
+}
+
+
+@font-face {
+    font-family: 'Arina';
+    src: url('../font/Arina-Regular.eot');
+    src: url('../font/Arina-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/Arina-Regular.woff2') format('woff2'),
+        url('../font/Arina-Regular.woff') format('woff'),
+        url('../font/Arina-Regular.ttf') format('truetype'),
+        url('../font/Arina-Regular.svg#Arina-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../font/CenturyGothic.eot');
+    src: url('../font/CenturyGothic.eot?#iefix') format('embedded-opentype'),
+        url('../font/CenturyGothic.woff2') format('woff2'),
+        url('../font/CenturyGothic.woff') format('woff'),
+        url('../font/CenturyGothic.ttf') format('truetype'),
+        url('../font/CenturyGothic.svg#CenturyGothic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* vietnamese */
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/Qw3aZQNVED7rKGKxtqIqX5EUAnx4RHw.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/Qw3aZQNVED7rKGKxtqIqX5EUA3x4RHw.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/Qw3aZQNVED7rKGKxtqIqX5EUDXx4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../font/Qw3aZQNVED7rKGKxtqIqX5EUAnx4RHw.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../font/Qw3aZQNVED7rKGKxtqIqX5EUA3x4RHw.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+  /* latin */
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../font/Qw3aZQNVED7rKGKxtqIqX5EUDXx4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/OpenSans-Semibold.eot');
+    src: url('../font/OpenSans-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../font/OpenSans-Semibold.woff2') format('woff2'),
+        url('../font/OpenSans-Semibold.woff') format('woff'),
+        url('../font/OpenSans-Semibold.ttf') format('truetype'),
+        url('../font/OpenSans-Semibold.svg#OpenSans-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Champagne & Limousines';
+    src: url('../font/ChampagneLimousines.eot');
+    src: url('../font/ChampagneLimousines.eot?#iefix') format('embedded-opentype'),
+        url('../font/ChampagneLimousines.woff2') format('woff2'),
+        url('../font/ChampagneLimousines.woff') format('woff'),
+        url('../font/ChampagneLimousines.ttf') format('truetype'),
+        url('../font/ChampagneLimousines.svg#Champagne&Limousines') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Kinetika';
+    src: url(../font/ofont.ru_Kinetika.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Piazzolla';
+    src: url(../font/ofont.ru_Piazzolla.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url(../font/ofont.ru_Onest.ttf) format('truetype');
+}
