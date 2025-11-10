@@ -2172,6 +2172,7 @@ button.btn.home::after {
 .imgButtonGO img {
   transition: 0.3s;
   pointer-events: none;
+  object-fit: cover;
 }
 
 .box_title_content .img_2:hover::after,

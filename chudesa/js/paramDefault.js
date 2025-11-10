@@ -5291,13 +5291,13 @@ frontDefault = [
 const interFASE = [
   {
     logo: `
-            <img class="top_logo_pro" src="img/system/logo1.png" style="height: 100px" >
-            <img class="top_logo_pro" src="img/system/logo2.png" style="height: 70px">
+            <img class="top_logo_pro" src="img/system/logo1.png">
+            <img class="top_logo_pro" src="img/system/logo2.png">
             <img class="top_logo_pro" src="img/system/logo3.png">
             <img class="top_logo_pro" src="img/system/logo4.jpg">
             <img class="top_logo_pro" src="img/system/logo5.png">
             <img class="top_logo_pro" src="img/system/logo6.png">
-            <img class="top_logo_pro" src="img/system/logo7.png" style="height: 100px">
+            <img class="top_logo_pro" src="img/system/logo7.png">
         `,
     menu: "",
     over: "",
