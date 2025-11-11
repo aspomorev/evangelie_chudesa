@@ -433,7 +433,6 @@ button.btn.close::after {
   color: #1b1b1b;
   text-shadow: none;
   padding: 0 calc(var(--index) * 3.5) 0 calc(var(--index) * 1.8);
-  height: calc(var(--index) * 1.5);
   position: relative;
   background: #fff;
   padding-bottom: calc(var(--index) * 0.7);
