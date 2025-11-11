@@ -528,7 +528,7 @@ function SCRIPT_scene_4(size) {
                       </div>
                   </div>
                   <div class="col-3">
-                      <div class="imgButtonGO button-interactive btn-menu">
+                      <div class="imgButtonGO button-interactive btn-menu" data-container="40">
                           <img id="box_l_pro_img_8" src="img/element/home/8.png" style="width: 100%; height: 200px">
                       </div>
                   </div>
@@ -2771,6 +2771,115 @@ function SCRIPT_scene_39(size) {
     mouseWheel: { enable: true },
   });
 }
+
+function SCRIPT_scene_40(size) {
+  setInterFASE(8);
+  $("#launch-content").append(`
+    <div class="box_title_content">
+        <div class="title_content">
+            <div class="box_1">
+                <div class="title_head_1">
+                ЕВАНГЕЛИЕ. <br> ОБРАЗ<span class="load_litteral_animation" data-litteral1="А" data-litteral2="Ы">Ы</span> И ОБРАЗ<span class="load_litteral_animation" data-litteral1="Ы" data-litteral2="А">А</span>
+                </div>
+                <div class="title_head_2">
+                интерактивный духовно-просветительский проект<br> Севастопольского филиала РЭУ им.Г.В. Плеханова
+                </div>
+                <div class="img_1 button-interactive btn-menu" data-container="12" style="
+                text-align: center;
+            ">
+                                <img src="img/element/Икона_Распятие.png" style="
+                                width: 60%;
+                                margin-top: calc(var(--index) * 0.05);
+            ">
+                            </div>
+
+            </div>
+            <div class="box_2">
+                <div class="img_2 button-interactive" data-case="15">
+                    <img src="img/element/Картина_Распятие.png" style="
+                                width: 85%;
+            ">
+                </div>
+                <div class="title_head_2">
+                серия:
+                </div>
+                <div class="title_head_3">
+                "Воскрешение Лазаря"
+                </div>
+            </div>
+        </div>
+    </div>
+    `);
+
+  $(".over-menu-16 .content-full").mCustomScrollbar({
+    theme: "dark",
+    scrollEasing: "easeInOut",
+    scrollInertia: 1500,
+    mouseWheel: { enable: true },
+  });
+  $(".over-menu-17 .content-full").mCustomScrollbar({
+    theme: "dark",
+    scrollEasing: "easeInOut",
+    scrollInertia: 1500,
+    mouseWheel: { enable: true },
+  });
+}
+
+function SCRIPT_scene_41() {
+  var tempList = "";
+
+  front[appParam.actualFrontImage].objects.forEach((element) => {
+    tempList +=
+      '<button class="scane_botton_element" type="button" data-id="' +
+      element.ID +
+      '"><i class="fa-solid fa-square-full"></i> ' +
+      element.name +
+      "</button>";
+  });
+  debugger;
+  $("#launch-content").append(
+    `
+        <div id="scane_1" class="scane_right">
+            <div class="scane_1_box">
+                <h3 class="h1_scane_1">Тайная вечеря111. Икона из Успенского собора Кирилло-Белозерского </h3>
+                <div class="p_scane_1">
+                <p>Год создания:</strong> 1497<br /><strong>Материалы, техника:</strong> дерево, паволока, левкас, темпера<br /><strong>Размер:</strong> 83,5 х 63 х 2,5<br /><strong>Местоположение:</strong> Государственный Русский музей</p>
+                <p><strong>Описание:</strong> До того, как попасть в Государственный Русский музей, икона располагалась в праздничном чине иконостаса Успенского собора, существующего до сих пор. Отстроенный в камне в 1497 году, он входит в ансамбль Кирилло-Белозерского монастыря, который располагается в Вологодской области в городе Кириллове. Иконы были написаны специально для собора тремя мастерами, представляющими московскую школу иконописи, &ndash; имена их неизвестны.</p>
+                <p>За основу сюжета взята евангельская сцена, описанная в Новом Завете и повествующая о пасхальной трапезе Иисуса со своими ближайшими учениками, во время которой он установил таинство Евхаристии, ставшее важным священнодействием в христианской вере, и рассказал о предательстве Иуды Искариота.</p>
+                <p>Икона в полной мере передает это событие. В основе ее композиции лежат две соединенные стеной столпообразные палаты, задающие пространство Сионской горницы, где по сюжету происходила трапеза. А также стол желтоватого цвета, на котором изображены хлеб и чаша с вином: вокруг него на скамье сидят апостолы. В данной сцене запечатлён момент, когда Иисус рассказывает о предательстве одного из учеников. Фигура Спасителя изображена слева от апостолов и выделена золотым сиянием над головой &ndash; нимбом. Иуду Искариота, будущего предателя, на иконе отличает сакраментальный жест руки &ndash; она протянута к чаше, что буквально цитирует слова из Евангелия: &laquo;&hellip;опустивший со Мною руку в блюдо, этот предаст Меня&raquo;<a href="#_ftn1" name="_ftnref1">[1]</a>.</p>
+                <p>&nbsp;</p>
+                <p><a href="#_ftnref1" name="_ftn1">[1]</a> Евангелие от Матфея 26:23.</p>
+                </div>
+            </div>
+        </div>
+
+        <div id="scane_1" class="scane_left">
+            <h1 class="h1_scane_1_1">АПОСТОЛЫ</h1>
+            <div class="scane_1_list">` +
+      tempList +
+      `</div>
+        </div>
+    `
+  );
+
+  $(".scane_1_box").mCustomScrollbar({
+    theme: "dark",
+    scrollEasing: "easeInOut",
+    scrollInertia: 1500,
+    mouseWheel: { enable: true },
+  });
+
+  $(".scane_1_list").mCustomScrollbar({
+    theme: "dark",
+    scrollEasing: "easeInOut",
+    scrollInertia: 1500,
+    mouseWheel: { enable: true },
+  });
+
+  return false;
+}
+
+
 
 $("body").on("click", ".scane_botton_element", function (e) {
   if (!$(this).hasClass("link")) {
