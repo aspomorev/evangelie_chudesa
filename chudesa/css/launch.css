@@ -3184,6 +3184,14 @@ body.mobile #close_mobile {
   justify-items: center;
 }
 
+.description p {
+    margin: 4px;
+}
+
+.mostPopular {
+  text-align: center;
+}
+
 .row {
   display: -ms-flexbox;
   display: flex;
