@@ -5037,7 +5037,6 @@ frontDefault = [
       },
     ],
   },
-
   {
     ID: "scene_33",
     img: {
@@ -6602,6 +6601,74 @@ frontDefault = [
         ],
       },
     ],
+  },
+  {
+    ID: "scene_42",
+    img: {
+      obj: null,
+      callback: (size) => SCRIPT_scene_42(size),
+      param: {
+        urlFrontImg: "img/system/none.png",
+        positionInit: "center",
+        background: {
+          // img: 'img/front/fon-all.jpg',
+          // size: '37%',
+          color: "rgb(255 255 255 / 50%)",
+        },
+      },
+    },
+    objectFront: {
+      path: [],
+      obj: null,
+      objDual: null,
+      fillColor: 0x060606,
+      fillOpacity: 0,
+      cube: {
+        path: {
+          x1: 0,
+          x2: 0,
+          y1: 0,
+          y2: 0,
+        },
+        width: 0,
+        height: 0,
+      },
+    },
+    objects: [],
+  },
+  {
+    ID: "scene_43",
+    img: {
+      obj: null,
+      callback: (size) => SCRIPT_scene_43(size),
+      param: {
+        urlFrontImg: "img/system/none.png",
+        positionInit: "center",
+        background: {
+          // img: 'img/front/fon-all.jpg',
+          // size: '37%',
+          color: "rgb(255 255 255 / 50%)",
+        },
+      },
+    },
+    objectFront: {
+      path: [],
+      obj: null,
+      objDual: null,
+      fillColor: 0x060606,
+      fillOpacity: 0,
+      cube: {
+        path: {
+          x1: 0,
+          x2: 0,
+          y1: 0,
+          y2: 0,
+        },
+        width: 0,
+        height: 0,
+      },
+    },
+    objects: [],
   },
 ];
 
@@ -8817,8 +8884,8 @@ const interFASE = [
             <button type="button" class="button-menu button-interactive btn-menu" data-container="41">Образы</button>
             <button type="button" class="button-menu button-interactive btn-menu" data-container="42">Образа</button>
             <button type="button" class="button-menu button-interactive btn-menu menu_rasp"  data-case="21">Видеокомментарий</button>
-            <button type="button" class="button-menu button-interactive btn-menu" data-container="42">Знакомство с художником</button>
-            <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-15">"Распятие Христово" в живописи</button>
+            <button type="button" class="button-menu button-interactive btn-menu" data-container="43">Знакомство с художником</button>
+            <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-16">"Воскрешение Лазаря" в живописи</button>
             <button type="button" id="sound-mute" class="btn sound sound-on button-interactive"></button>
         `,
     over: `
@@ -8833,7 +8900,7 @@ const interFASE = [
             <div class="content-full-text">
             <p><strong>&nbsp;</strong></p>
 
-            <p>Сюжет, повествующий о погребении Христа, часто встречается в живописи. Существуют разные варианты композиции: зачастую художники иллюстрируют момент перенесения Христа и положения его во гроб. Фоном для сцены являются пейзажные мотивы или пещерное пространство, в котором располагается саркофаг, где уложено тело Спасителя. В традиционной иконографии изображение Христа занимает центральное место и обычно окружено ключевыми персонажами, такими как Божья Матерь и Мария Магдалина, могут присутствовать другие святые жены, иногда – Иоанн Богослов. Плащаницу удерживают Иосиф Аримафейский, благодаря которому было разрешено погребение, и Никодим. Редко на полотне могут присутствовать ангелы. Иконографически расходится с похожим по составу участников и схеме изображения «Оплакиванием Христа». Бывают случаи, оба типа совмещены.</p>
+            <p>Сюжет111, повествующий о погребении Христа, часто встречается в живописи. Существуют разные варианты композиции: зачастую художники иллюстрируют момент перенесения Христа и положения его во гроб. Фоном для сцены являются пейзажные мотивы или пещерное пространство, в котором располагается саркофаг, где уложено тело Спасителя. В традиционной иконографии изображение Христа занимает центральное место и обычно окружено ключевыми персонажами, такими как Божья Матерь и Мария Магдалина, могут присутствовать другие святые жены, иногда – Иоанн Богослов. Плащаницу удерживают Иосиф Аримафейский, благодаря которому было разрешено погребение, и Никодим. Редко на полотне могут присутствовать ангелы. Иконографически расходится с похожим по составу участников и схеме изображения «Оплакиванием Христа». Бывают случаи, оба типа совмещены.</p>
 
             <p><strong>&nbsp;</strong></p>
             <p><strong>&nbsp;</strong></p>
