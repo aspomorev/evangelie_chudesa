@@ -6070,7 +6070,7 @@ const interFASE = [
             <!-- <button type="button" class="button-menu button-interactive btn-menu"  data-case="16">Музыкальный образ</button> -->
             <button type="button" class="button-menu button-interactive btn-menu menu_rasp"  data-case="22">Видеокомментарий</button>
             <button type="button" class="button-menu button-interactive btn-menu" data-container="35">Знакомство с художником</button>
-            <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-15">"Суд Синедриона" в живописи</button>
+            <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-15">"Овчая купель" в живописи</button>
             <!-- <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-16" data-case="16">Иконография</button>
             <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-6" data-case="6">#</button> -->
             <button type="button" id="sound-mute" class="btn sound sound-on button-interactive"></button>
