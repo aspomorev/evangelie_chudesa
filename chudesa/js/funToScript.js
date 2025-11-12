@@ -2773,7 +2773,7 @@ function SCRIPT_scene_39(size) {
 }
 
 function SCRIPT_scene_40(size) {
-  setInterFASE(8);
+  setInterFASE(9);
   $("#launch-content").append(`
     <div class="box_title_content">
         <div class="title_content">
