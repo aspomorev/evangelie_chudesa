@@ -492,7 +492,7 @@ function SCRIPT_scene_4(size) {
                   </div>
                   <div class="col-3">
                       <div class="imgButtonGO button-interactive btn-menu" data-container="14">
-                          <img id="box_l_pro_img_4" src="img/element/home/4.png" style="width: 100%; height: 200px">
+                          <img id="box_l_pro_img_4" src="img/element/home/4.jpg" style="width: 100%; height: 200px">
                       </div>
                   </div>
               </div>
@@ -529,7 +529,7 @@ function SCRIPT_scene_4(size) {
                   </div>
                   <div class="col-3">
                       <div class="imgButtonGO button-interactive btn-menu" data-container="40">
-                          <img id="box_l_pro_img_8" src="img/element/home/8.png" style="width: 100%; height: 200px">
+                          <img id="box_l_pro_img_8" src="img/element/home/8.png" style="width: 100%; height: 200px; object-position: top">
                       </div>
                   </div>
               </div>
