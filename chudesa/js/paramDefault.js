@@ -5409,7 +5409,7 @@ const interFASE = [
         
         </ul>
 
-        <div class="content-full op3">
+        <div class="content-full op3 examples">
             <div class="content-full-text">
             <p><strong>&nbsp;</strong></p>
 
@@ -5440,7 +5440,7 @@ const interFASE = [
             <strong class="content-title-h2">Зарубежная (европейская) живопись</strong>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/3_серия/ПримерыИнтерпретации2.jpg" alt="Исцеление гадаринского бесноватого" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -5461,7 +5461,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/3_серия/ПримерыИнтерпретации3.jpg" alt="Исцеление гадаринского бесноватого" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -5480,7 +5480,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/3_серия/ПримерыИнтерпретации4.jpg" alt="Исцеление гадаринского бесноватого" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -5499,7 +5499,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/3_серия/ПримерыИнтерпретации5.jpg" alt="Исцеление гадаринского бесноватого" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -5510,7 +5510,7 @@ const interFASE = [
                   <p><strong>Материал, техника:</strong> графика, уголь, холст.</p>
                   <p><strong>Размер:</strong> -</p>
                   <p><strong>Местонахождение:</strong> Национальная галерея, Вашингтон.</p>
-                  <p><strong>Ссылка на источник:</strong></p>
+                  <p><strong>Ссылка на источник:</strong><br></p>
                   <p><a href="https://www.nga.gov/collection/art-object-page.48126.html">https://www.nga.gov/collection/art-object-page.48126.html</a></p>
                 </div>
               </div>
@@ -5520,7 +5520,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/3_серия/ПримерыИнтерпретации6.jpg" alt="Исцеление гадаринского бесноватого" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -5942,7 +5942,7 @@ const interFASE = [
         
         </ul>
 
-        <div class="content-full op3">
+        <div class="content-full op3 examples">
           <div class="content-full-text">
             <p><strong>&nbsp;</strong></p>
 
@@ -5952,7 +5952,7 @@ const interFASE = [
             <strong class="content-title-h2">Отечественная живопись</strong>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/4_серия/ПримерыИнтерпретации1.jpg" alt="Овчая купель" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -5972,7 +5972,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/4_серия/ПримерыИнтерпретации2.jpg" alt="Овчая купель" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -5994,7 +5994,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/4_серия/ПримерыИнтерпретации3.jpg" alt="Исцеление расслабленного у Овчей купели" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6017,7 +6017,7 @@ const interFASE = [
             <strong class="content-title-h2">Зарубежная (европейская) живопись</strong>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/4_серия/ПримерыИнтерпретации4.jpg" alt="Святое исцеление" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6037,7 +6037,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/4_серия/ПримерыИнтерпретации5.jpg" alt="Христос, исцеляющий расслабленного у Вифезда." class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6058,7 +6058,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/4_серия/ПримерыИнтерпретации6.jpg" alt="Христос исцеляет больных" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6069,7 +6069,7 @@ const interFASE = [
                   <p><strong>Материал, техника: </strong>холст, масло</p>
                   <p><strong>Размер:</strong> 114 х 98 см.</p>
                   <p><strong>Местонахождение:</strong> Государственный музей им. А. С. Пушкина, Москва.</p>
-                  <p><strong>Ссылка на источник:</strong> <a href="https://artchive.ru/palmagiovane/works/491571~Khristos_istseljaet_bol'nykh"><strong>https://artchive.ru/palmagiovane/works/491571~Khristos_istseljaet_bol'nykh</strong></a></p>
+                  <p><strong>Ссылка на источник:</strong><br><a href="https://artchive.ru/palmagiovane/works/491571~Khristos_istseljaet_bol'nykh"><strong>https://artchive.ru/palmagiovane/works/491571~Khristos_istseljaet_bol'nykh</strong></a></p>
                 </div>
               </div>
             </div>
@@ -6078,7 +6078,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/4_серия/ПримерыИнтерпретации7.jpg" alt="Исцеление в Вефсаиде" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6089,7 +6089,7 @@ const interFASE = [
                   <p><strong>Материал, техника: </strong>холст, масло.</p>
                   <p><strong>Размер:</strong> 112 х 179 см.</p>
                   <p><strong>Местонахождение:</strong> музей Лувр, Франция.</p>
-                  <p><strong>Ссылка на источник:</strong></p>
+                  <p><strong>Ссылка на источник:</strong><br></p><br>
                   <p><a href="https://gallerix.ru/storeroom/1001685885/N/127858187/"><strong>h</strong><strong>ttps://gallerix.ru/storeroom/1001685885/N/127858187/</strong></a></p>
                 </div>
               </div>
@@ -6099,7 +6099,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-                <div class="col-auto drawGallery" style="width: 400px" >
+                <div class="col-auto drawGallery" >
                   <img src="img/element/4_серия/ПримерыИнтерпретации9.jpg" alt="исцеление в купальне Вифезда" class="img-fluid">
                 </div>
                 <div class="col d-flex mt-3">
@@ -6110,7 +6110,7 @@ const interFASE = [
                     <p><strong>Материал, техника: </strong>холст, масло</p>
                     <p><strong>Размер: </strong>104 х 84 см.</p>
                     <p><strong>Местонахождение:</strong> Музей Фредериксборг Хиллерод , Дания.</p>
-                    <p><strong>Ссылка на источник:</strong></p>
+                    <p><strong>Ссылка на источник:</strong><br></p>
                     <p><a href="https://artchive.ru/artists/90735~Karl_Genrikh_Blokh/works/700136~Khristos_istseljaet_bol'nykh_v_Vifezde">https://artchive.ru/artists/90735~Karl_Genrikh_Blokh/works/700136~Khristos_istseljaet_bol'nykh_v_Vifezde</a></p>
                   </div>
                 </div>
@@ -6144,273 +6144,272 @@ const interFASE = [
            <!-- <button type="button" class="button-menu button-interactive btn-menu"  data-case="16">Музыкальный образ</button> -->
             <button type="button" class="button-menu button-interactive btn-menu menu_rasp"  data-case="23">Видеокомментарий</button>
             <button type="button" class="button-menu button-interactive btn-menu" data-container="36">Знакомство с художником</button>
-            <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-15">"Приведение к Пилату" в живописи</button>
+            <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-15">"Хождение по водам" в живописи</button>
             <!-- <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-16" data-case="16">Иконография</button>
             <button type="button" class="button-menu button-interactive btn-menu" data-over="menu-6" data-case="6">#</button> -->
             <button type="button" id="sound-mute" class="btn sound sound-on button-interactive"></button>
         `,
     over: `
-
-        
-
-         <!--<div class="over over-menu-14">
-                <button type="button" class="btn btn-close close"></button>
-                <h2>Знакомство с художником</h2>
-                <ul class="menu-top-over">
-                
-                </ul>
-
-                <div class="content-full op3">
-                    <div class="content-full-text">
-                        <div class="w-36 float-left">
-                            <div class="drawGallery" data-id="1">
-                                <img src="img/element/gallery/Суд_художник/Кошелев автопортрет.png" alt="«Автопортрет», 1860-е">
-                                <h2>«Автопортрет», 1860-е</h2>
-                            </div>
-                            <div class="drawGallery" data-id="2">
-                                <img src="img/element/gallery/Суд_художник/Рисунок1.jpg" alt="Офеня-коробейник, 1865 г.">
-                                <h2>Офеня-коробейник, 1865 г.</h2>
-                            </div>
-                            <div class="drawGallery" data-id="3">
-                                <img src="img/element/gallery/Суд_художник/Рисунок2.jpg" alt="Дети, катающие пасхальные яйца, 1855 г.">
-                                <h2>Дети, катающие пасхальные яйца, 1855 г.</h2>
-                            </div>
-                            <div class="drawGallery" data-id="4">
-                                <img src="img/element/gallery/Суд_художник/Рисунок3.jpg" alt="Погребение Христа, 1881 г. ">
-                                <h2>Погребение Христа, 1881 г.</h2>
-                            </div>
-                            <div class="drawGallery" data-id="5">
-                                <img src="img/element/gallery/Суд_художник/Рисунок4.jpg" alt="Христос, благословляющий детей, 1890 г.">
-                                <h2>Христос, благословляющий детей, 1890 г.</h2>
-                            </div>
-                            <div class="drawGallery" data-id="6">
-                                <img src="img/element/gallery/Суд_художник/Рисунок5.jpg" alt="Преображение Господне. Эскиз для мозаики храма Воскресения Христова (Спас-на-крови), 1890-е гг.">
-                                <h2>Преображение Господне. Эскиз для мозаики храма Воскресения Христова (Спас-на-крови), 1890-е гг.</h2>
-                            </div>
-                            <div class="drawGallery" data-id="7">
-                                <img src="img/element/gallery/Суд_художник/Рисунок6.jpg" alt="Снятие с креста, 1897 г.">
-                                <h2>Снятие с креста, 1897 г.</h2>
-                            </div>
-                        </div>
-                        <div class="w-64 float-right">
-                            <p>Николай Андреевич Кошелев &ndash; русский портретист, художник-монументалист и иконописец, также известный как автор работ по вопросам искусства. На первое место ставил высокие идеалы живописи. Создал множество эскизов росписей для храмов, хотя не все его произведения сохранились до нашего времени.</p>
-                            <p>&nbsp;</p>
-                            <p><strong>Картины</strong><strong>:</strong>&nbsp;&laquo;Дети, катающие пасхальные яйца&raquo; (1855), &laquo;Офеня-коробейник&raquo; (1865), &laquo;Погребение Христа&raquo; (1881), &laquo;Христос, благословляющий детей&raquo; (1890), &laquo;Преображение Господне. Эскиз для мозаики храма Воскресения Христова&raquo; (1890-е гг.), &laquo;Снятие с креста&raquo; (1897).</p>
-                            <p>&nbsp;</p>
-                            <p>Кошелев родился в 1840 году, детство провёл в Арзамасе, где учился в школе живописи А.В. Ступина, что определило его путь как художника. Позднее он развивал свой талант у различных наставников, включая итальянского мастера Ботелли. В 1860 году поступил в Академию художеств сначала как вольнослушатель, после стал постоянным учеником. Через четыре года получил Малую золотую медаль за картину &laquo;Меркурий усыпляет Аргуса, чтобы похитить нимфу Ио&raquo;. За время обучения Кошелев достиг мастерства в исторической и портретной живописи, однако финансовые затруднения помешали ему участвовать в конкурсе на Большую золотую медаль.</p>
-                            <p>После завершения Академии он работал в художественной артели, где принимал участие в создании икон для Староладожского Никольского монастыря. Позднее вступил в &laquo;Санкт-Петербургскую Артель художников&raquo;, основанную И.Н. Крамским для взаимопомощи среди мастеров изобразительного искусства.</p>
-                            <p>Одним из важнейших этапов творчества Кошелева стала работа над росписями храмов, среди которых выделяются такие значимые произведения, как росписи в Спас-на-Крови и Храме Христа Спасителя. За работу над последними он был удостоен звания профессора Императорской Академии художеств и ордена Святого Владимира 4-й степени за гражданские заслуги.</p>
-                            <p>Отдельное место в его творчестве занимает создание икон для русской церкви Святого Александра Невского в Иерусалиме. Для работы над этим проектом Кошелев в 1891 году, по приглашению Православного Палестинского Общества, посетил Святые места Палестины, чтобы проникнуться атмосферой библейских мест, где разворачивались события Священной истории. К этому времени он уже был признанным мастером религиозной живописи.</p>
-                            <p>Помимо художественной деятельности, Кошелев активно занимался преподаванием, участвовал в различных выставках и много путешествовал. В 1911&ndash;1912 годах он принял участие в организации Всероссийского съезда художников.</p>
-                            <p>Скончался Николай Андреевич Кошелев в 1918 году, оставив значительное наследие в области русской монументальной и религиозной живописи.</p>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-
-
-
-
     <div class="over over-menu-15">
         <button type="button" class="btn btn-close close"></button>
-        <h2>Примеры интерпретации евангельского сюжета «Суд Пилата» в живописи: отечественной и зарубежной</h2>
+        <h2>Примеры интерпретации евангельского сюжета «Хождение по водам» в живописи: отечественной и зарубежной</h2>
         <ul class="menu-top-over">
         
         </ul>
 
-        <div class="content-full op3">
+        <div class="content-full op3 examples">
             <div class="content-full-text">
             <p><strong>&nbsp;</strong></p>
 
-            <p>Сюжет «Суд Пилата» («Иисус перед Пилатом») охватывает один из ключевых эпизодов евангельской истории, когда римский прокуратор Иудеи, Понтий Пилат, сталкивается с необходимостью принять решение о судьбе Иисуса Христа. Этот сюжет представлен в живописи в нескольких повествовательных вариациях: первая встреча Пилата с Иисусом, на которой звучит вопрос «Что есть истина?», вывод Иисуса к народу и ритуальное омовение рук, символизирующее непричастность прокуратора к данному решению. Традиционно Христос изображается в багрянице и с терновым венцом на голове, подчёркивающим его страдания и смирение. В западной живописи получила распространение иконография под названием «Ecce Homo» («Се человек») – слова, которые, согласно Евангелию от Иоанна, произносит Пилат, пытаясь убедить толпу в невиновности Иисуса. В этой сцене он обращает внимание народа на Христа в надежде вызвать сострадание, однако вместо этого получает требование казни.</p>
+            <p>Чудо хождения Христа по водам непосредственно отражает силу веры, к которой должен стремится каждый христианин. Это означает учится идти за Иисусом, учится доверять Ему и не боятся. Ведь страх разрушает все. У апостола Петра не хватило веры, чтобы дойти до Христа, но это еще раз подтверждает, что все мы люди. А доверяя Спасителю, мы учимся идти по бушующей воде наших страхов, жизненных трудностей и невзгод, преодолевая их силой веры в Бога. Он дает нам все потребное для жизни, Он уже спас нас ценой Своей крови. Этот важный сюжет мы можем увидеть отраженным в художественных произведениях как отечественных, так и зарубежных авторов. Давайте обратимся к полотнам.</p>
 
-            <p><strong>&nbsp;</strong></p>
-            <p><strong>Отечественная живопись:</strong></p>
-            <p><strong>&nbsp;</strong></p>
+            <strong class="content-title-h2">Отечественная живопись</strong>
 
-            <div style="display: inline-block;">
-                
-                <div class="w-36 float-left">
-                    <div class="drawGallery" data-id="1">
-                        <img src="img/element/gallery/Пилат_живопись/Picture.png" >
-                    </div>
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" style="height: 100%" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации1.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> М. Врубель</p>
+                  <p><strong>Название картины</strong>: Хождение по водам</p>
+                  <p><strong>Год создания:</strong> 1891 г.</p>
+                  <p><strong>Материал, техника:</strong> бумага на картоне.</p>
+                  <p><strong>Размер:</strong> 59 х 66</p>
+                  <p><strong>Местонахождение:</strong> Третьяковская галерея, Москва.</p>
+                  <p><strong>Ссылка на источник: </strong><a href="https://my.tretyakov.ru/app/masterpiece/9011"><strong>https://my.tretyakov.ru/app/masterpiece/9011</strong></a></p>
                 </div>
-                <div class="w-64 float-right">
-                <p><strong>Художник:</strong> Николай Николаевич Ге</p>
-                        <p><strong>Название картины:</strong> «Что есть истина?» Христос и Пилат </p>
-                        <p><strong>Год создания</strong>: 1890 г.</p>
-                        <p><strong>Материал, техника:</strong> холст, масло</p>
-                        <p><strong>Размер:</strong> 233 х 171</p>
-                        <p><strong>Местонахождение:</strong> Государственная Третьяковская галерея, Москва</p>
-                        <p><strong>Ссылка на сайт: </strong><a href="https://my.tretyakov.ru/app/masterpiece/8453">https://my.tretyakov.ru/app/masterpiece/8453</a> </p>
-                        <p><strong>&nbsp;</strong></p>
-                        <p><strong>Описание: </strong>Данная картина, иллюстрирующая евангельский сюжет, является частью «Страстного цикла», над которым Н.Н. Ге работал более десяти лет. В сцене участвуют только два персонажа – Понтий Пилат и Иисус Христос. Образ Христа отходит от традиционной иконографии: он стоит в тени, его измождённая фигура в простом одеянии, руки сложены за спиной. На его фоне Пилат выделяется не только ярким солнечным светом, но и властностью позы. Он изображён со спины, его рука направлена к Христу в жесте, выражающем вопрос – вероятно, тот, что отражён в названии картины: «Что есть истина?».
-                        Световое решение уникально, оно также подчёркивает отход от классического прочтения: здесь мрак не символизирует зло, а свет – добро.</p>
-
-                </div>
+              </div>
+            </div>
+            <div>
+              <p>В отличие от реалистично-романтической трактовки Айвазовского, Врубель создает напряженную, тревожную сцену, где главное - не физическая достоверность, а духовное напряжение. Врубель превращает евангельский сюжет в психоделическую драму, где чудо - не утешение, а испытание. Его &laquo;Хождение по водам&raquo; - это не о вере, а о страхе, не о спасении, а о риске, который требует от человека абсолютного доверия.</p>
+              <p>Наблюдавшей за мучениями своих товарищей Врубель неожиданно, как вспоминал Коровин, принял участие в этой работе. &laquo;Врубель сделал эскиз с такой волшебной маэстрией и так быстро, что оба приятеля были совершенно подавлены. По словам Серова, Врубель ясно видел их беспомощность в сравнении с ним и довольно язвительно говорил о том, что настоящему человеку, созданному для монументальной живописи, ее не заказывают, а &bdquo;черт знает кому &mdash; дают&rdquo;&raquo;, - цитировал воспоминания Серова Игорь Грабарь.</p>
+              <p>В цветовой палитре преобладают синие оттенки, при этом использована техника импрессионистов &ndash; мелкие точечные мазки (как в картине &laquo;Демон&raquo;). </p>
             </div>
 
-            <p><strong>&nbsp;</strong></p>
-            <p><strong>&nbsp;</strong></p>
-
-            <div style="display: inline-block;">
-                <div class="w-36 float-left">
-                    <div class="drawGallery" data-id="1">
-                        <img src="img/element/gallery/Пилат_живопись/Picture (1).png" >
-                    </div>
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации2.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> А.&nbsp;Иванов</p>
+                  <p><strong>Название картины</strong>: Хождение по водам (Христос спасает начавшего тонуть Петра)</p>
+                  <p><strong>Год создания:</strong> 1840-е -1858 г.</p>
+                  <p><strong>Материал, техника:</strong> бумага, акварель, белила.</p>
+                  <p><strong>Размер:</strong></p>
+                  <p><strong>Местонахождение:</strong> Третьяковская галерея, Москва.</p>
+                  <p><strong>Ссылка на источник: </strong><a href="https://my.tretyakov.ru/app/masterpiece/125120"><strong>https://my.tretyakov.ru/app/masterpiece/125120</strong></a></p>
                 </div>
-                <div class="w-64 float-right">
-                        <p><strong>Художник:</strong> Василий Дмитриевич Поленов</p>
-                        <p><strong>Название картины:</strong> Христос перед Пилатом</p>
-                        <p><strong>Год создания</strong>: 1900-е гг.</p>
-                        <p><strong>Материал, техника:</strong> холст на картоне, масло</p>
-                        <p><strong>Размер:</strong> 8,5 х 15,5 см</p>
-                        <p><strong>Местонахождение:</strong> Государственный мемориальный историко-художественный и природный музей-заповедник В.Д. Поленова, Страхово</p>
-                        <p><strong>Ссылка на сайт: </strong><a href=" https://goskatalog.ru/portal/#/collections?id=13491731"> https://goskatalog.ru/portal/#/collections?id=13491731 </a> </p>
-                        <p><strong>&nbsp;</strong></p>
-                        <p><strong>Описание: </strong>Картина сосредотачивается на евангельском сюжете, известном как суд Понтия Пилата. Художник выбрал для изображения момент разговора римского прокуратора с Иисусом Христом в его иерусалимской резиденции, куда Спасителя привели по обвинению в том, что Он называл себя Царём Иудейским. Фигура Христа смещена вправо, и его взгляд направлен на сидящего Пилата, который подпирает голову руками. Этот жест можно интерпретировать как внутреннюю борьбу прокуратора, который не находит вины в Иисусе и ещё надеется спасти его от смерти. Композиция передаёт напряжение момента, предшествующего поруганиям и последующему выводу Христа к народу, когда Пилат вынужден будет принять решение под давлением толпы.</p>
-                </div>
+              </div>
+            </div>
+            <div>
+              <p>Иванов изображает момент, когда Пётр, охваченный страхом, протягивает руку к Христу, а тот поднимает его из воды. Фигуры освещены мистическим светом, контрастирующим с тёмными волнами. Движение волн, динамика фигур передают напряжение момента.&nbsp; От Христа исходит свет, символизируя божественную силу. На заднем плане видна темная лодка, где сидят другие ученики. Этот эскиз, как и другие этюды Иванова, отражает его поиски идеального образа Христа &mdash; не канонически-отстранённого, а живого и человечного. Художник изучал натуру, световые эффекты и эмоции, чтобы создать убедительную религиозную сцену. Иванов акцентирует внимание на диалоге веры и сомнения. &nbsp;&nbsp;Особенность работы Иванова в том, что она сочетает реализм с мистическим светом. Его Христос &ndash; не просто чудотворец, но учитель, испытывающий веру ученика.</p>
             </div>
 
-            <p><strong>&nbsp;</strong></p>
-            <p><strong>&nbsp;</strong></p>
-
-            <div style="display: inline-block;">
-                <div class="w-36 float-left">
-                    <div class="drawGallery" data-id="1">
-                        <img src="img/element/gallery/Пилат_живопись/Picture (2).png" >
-                    </div>
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации3.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> Н. М. Алексеев</p>
+                  <p><strong>Название картины</strong>: Иисус Христос спасает утопающего Петра</p>
+                  <p><strong>Год создания:</strong> 1850 г.</p>
+                  <p><strong>Материал, техника:</strong> масло, сухая штукатурка.</p>
+                  <p><strong>Размер:</strong> 49,5 х 36,5 см.</p>
+                  <p><strong>Местонахождение:</strong> Исаакиевский собор, Санкт-Петербург.</p>
                 </div>
-                <div class="w-64 float-right">
-                        <p><strong>Художник:</strong> Александр Андреевич Иванов </p>
-                        <p><strong>Название картины:</strong> Христос перед Пилатом («Откуда ты?»), эскиз</p>
-                        <p><strong>Год создания</strong>: конец 1840-х – 1858 гг.</p>
-                        <p><strong>Материал, техника:</strong> акварель, графитный карандаш</p>
-                        <p><strong>Размер:</strong> 26,3 х 40,2 см</p>
-                        <p><strong>Местонахождение:</strong> Псковосударственная Третьяковская галерея, Москва</p>
-                        <p><strong>Ссылка на сайт:</strong> <a href="https://my.tretyakov.ru/app/masterpiece/47543">https://my.tretyakov.ru/app/masterpiece/47543</a></p>
-                        <p><strong>&nbsp;</strong></p>
-                        <p><strong>Описание: </strong>Произведение представляет собой эскиз на библейскую тему и по замыслу художника предназначался для воплощения в виде настенной росписи в общественном здании. Художник выбирает момент вынесения приговора: Иисуса приводят к римскому прокуратору по обвинению в том, что Он называет себя царём Иудейским, что, по мнению обвинителей, подрывает власть кесаря. Фигуры на акварели лишь намечены: в центре изображены Пилат и Христос, выделенный красным цветом одеяния – багряницей, с терновым венцом на голове. По бокам выстроены римские воины с поднятыми копьями, а позади – толпа, требующая казни.</p>
-                </div>
+              </div>
+            </div>
+            <div>
+              <p>Алексеев изображает кульминационный момент, когда Пётр, попытавшийся идти по воде к Христу, но усомнившийся и начавший тонуть, в отчаянии протягивает руку к Спасителю. Христос, стоящий на воде с невозмутимым спокойствием, крепко держит Петра за руку, спасая его. Фигура Христа &ndash; центральная, излучающая божественный свет и стабильность. Его поза выражает власть над стихией, а взгляд направлен на Петра с сочувствием и укором. Пётр изображён в динамике: его тело погружено в воду, лицо искажено страхом и раскаянием, одна рука хватается за Христа, другая &ndash; беспомощно раскинута. Алексеев, в отличие от других художников, делает упор на драматизме встречи двух персонажей в водной стихии. При этом вся картина имеет небольшое количество прорисованных деталей. Вода вокруг и под Иисусом не кажется бушующей.</p>
             </div>
 
-
-            <p><strong>&nbsp;</strong></p>            
-            <p><strong>Зарубежная (европейская) живопись:</strong></p>
-            <p><strong>&nbsp;</strong></p>
-
-            <div style="display: inline-block;">
-                <div class="w-36 float-left">
-                    <div class="drawGallery" data-id="1">
-                        <img src="img/element/gallery/Пилат_живопись/Picture (3).png" >
-                    </div>
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации4.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> К.&nbsp;В. Лебедев</p>
+                  <p><strong>Название картины</strong>: Хождение Христа по водам</p>
+                  <p><strong>Год создания:</strong> начало ХХ века.</p>
+                  <p><strong>Материал, техника:</strong> хромолитография, бумага, графика.</p>
+                  <p><strong>Размер:</strong> -</p>
+                  <p><strong>Местонахождение:</strong> Государственный музей истории религии, Москва.</p>
                 </div>
-                <div class="w-64 float-right">
-                        <p><strong>Художник:</strong> Школа (мастерская) Рембрандта</p>
-                        <p><strong>Название картины:</strong> Пилат, умывающий руки</p>
-                        <p><strong>Год создания</strong>: кок 1650-х гг.</p>
-                        <p><strong>Материал, техника:</strong> холст, масло</p>
-                        <p><strong>Размер: </strong> 130,2 х 167 см</p>
-                        <p><strong>Местонахождение:</strong> Метрополитан-музей, Нью-Йорк</p>
-                        <p><strong>Ссылка на сайт: </strong><a href="https://www.metmuseum.org/art/collection/search/437414">https://www.metmuseum.org/art/collection/search/437414</a></p>
-                        <p><strong>&nbsp;</strong></p>
-                        <p><strong>Описание: </strong>Картина, вероятно, выполнена одним из учеников Рембрандта и иллюстрирует евангельскую сцену суда Понтия Пилата. Художник выбрал для изображения момент ритуального омовения рук, который интерпретируется как снятие с себя ответственности за вынесение приговора и демонстрация непричастности: «Пилат, видя, что ничто не помогает, … взял воды и умыл руки перед народом, и сказал: „Невиновен я в крови Праведника Сего“» (Мф 27:24). Фигура римского прокуратора, одетая в богатое и изысканное одеяние, которое скорее соответствует моде времени создания картины, изображена сидящей справа. Перед ним стоит мальчик-слуга, который поливает руки Пилата, сложенные над серебряной чашей. На заднем плане, слева, виднеется ликующая толпа.</p>
-                </div>
+              </div>
+            </div>
+            <div>
+              <p>Лебедев изображает евангельский эпизод (Мф. 14:22&ndash;33), в котором Христос идёт по бурному морю, а апостол Пётр, попытавшись последовать за Ним, начинает тонуть. В отличие от драматических трактовок Иванова или Алексеева, Лебедев выбирает более уравновешенную композицию. Христос изображен стабильно стоящим на воде, Его фигура совещена мягким светом, взгляд направлен на Петра. Петр показан в момент отчаяния и надежды, он еще не погрузился полностью в воду, но уже протягивает руку к Спасителю. &nbsp;Также отлично то, что показывает сцену с умеренным драматизмом, мягким светом, делая акцент на диалоге Христа и Петра. Лебедев, будучи преподавателем Московского училища живописи, создавал работы в духе церковного академизма. Его картина &mdash; не новаторская, но мастерски исполненная иллюстрация к Евангелию</p>
             </div>
 
-            <p><strong>&nbsp;</strong></p>
-            <p><strong>&nbsp;</strong></p>
-
-            <div style="display: inline-block;">
-                <div class="w-36 float-left">
-                    <div class="drawGallery" data-id="1">
-                        <img src="img/element/gallery/Пилат_живопись/Picture (4).png" >
-                    </div>
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации5.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> С.&nbsp;В. Беклемишев</p>
+                  <p><strong>Название картины</strong>: Хождение по водам</p>
+                  <p><strong>Год создания:</strong> 1903 г.</p>
+                  <p><strong>Материал, техника:</strong> акварель, холст.</p>
+                  <p><strong>Размер:</strong> -</p>
+                  <p><strong>Местонахождение:</strong> Государственный музей истории религии, Санкт-Петербург.</p>
                 </div>
-                <div class="w-64 float-right">
-                <p><strong>Художник:</strong> Квентин Массейс</p>
-                <p><strong>Название картины:</strong> Пилат выводит Христа к народу</p>
-                <p><strong>Год создания</strong>: 518–1520 гг.</p>
-                <p><strong>Материал, техника:</strong> дерево, масло</p>
-                <p><strong>Размер:</strong> 122 х 133 см</p>
-                <p><strong>Местонахождение:</strong> Национальный музей Прадо, Мадрид </p>
-                <p><strong>Ссылка на сайт: </strong><a href="https://www.museodelprado.es/en/the-collection/art-work/christ-presented-to-the-people/327bed20-74b8-4d08-9bb9-f173ca023ee9?searchid=f886ccf6-c91d-b8b3-cf77-87cbf692ded7">https://www.museodelprado.es/en/the-collection/art-work/christ-presented-to-the-people/327bed20-74b8-4d08-9bb9-f173ca023ee9?searchid=f886ccf6-c91d-b8b3-cf77-87cbf692ded7</a> </p>
-                        <p><strong>&nbsp;</strong></p>
-                        <p><strong>Описание: </strong><p>Картина представляет собой евангельский сюжет, повествующий о суде Понтия Пилата. Пилат стоит на балконе, символизирующем Лифостротон (каменный помост в Иерусалиме), и показывает Христа толпе, ожидая её реакции для вынесения приговора. Фигура Спасителя расположена в центре; на нём терновый венец и багряница, а на шее висит верёвка. Особое внимание стоит обратить на мастерство фламандского художника Квентина Массейса в проработке деталей, что особенно заметно в архитектуре и тщательно выписанном декоре. Наклонная перспектива подчёркивает фигуры Пилата и Христа, а также вовлекает зрителя, предлагая ему роль участника происходящего: он вместе с толпой смотрит на Спасителя снизу вверх. Скульптурная группа над балконом символизирует Милосердие, однако толпа так и не проявила сострадания.</p>
-                </div>
+              </div>
+            </div>
+            <div>
+              <p>Работа выполнена в характерной для позднего академизма манере: четкая линейная композиция, тщательная проработка драпировок, сдержанный колорит. Картина создавалась в период угасания &laquo;большого стиля&raquo; в религиозной живописи, возрождения интереса к античным образцам и поиска нового языка в библейских сюжетах.</p>
+              <p>В композиции картины небо и море занимают значительную часть холста, но внимание привлекают излучающая свет фигура Христа и горящая звезда. Используются любимые приёмы художника в изображении волн, освещённых ярким светом, и водных струй, стекающих с борта лодки, с весла, с одежды Петра.</p>
+              <p>Картина представляет особую ценность для понимания развития русской академической школы на рубеже XIX-XX веков, когда традиционные формы наполнялись новым содержанием.</p>
             </div>
 
-            <p><strong>&nbsp;</strong></p>
-            <p><strong>&nbsp;</strong></p>
+            <strong class="content-title-h2">Зарубежная (европейская) живопись</strong>
 
-            <div style="display: inline-block;">
-                <div class="w-36 float-left">
-                    <div class="drawGallery" data-id="1">
-                        <img src="img/element/gallery/Пилат_живопись/Picture (5).png" >
-                    </div>
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации6.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> Шарль де Лафосс</p>
+                  <p><strong>Название картины</strong>: Хождение по водам</p>
+                  <p><strong>Год создания:</strong> ок. 1700 г.</p>
+                  <p><strong>Материал, техника: </strong>холст, масло</p>
+                  <p><strong>Размер: </strong>97&times; 130 &nbsp;см</p>
+                  <p><strong>Местонахождение:</strong> Эрмитаж, Санкт-Петербург.</p>
+                  <p><strong>Ссылка на источник: </strong>https://collections.hermitagemuseum.org/entity/OBJECT/38092?avtor=2208&amp;index=4</p>
                 </div>
-                <div class="w-64 float-right">
-                <p><strong>Художник:</strong> Тициан Вечеллио</p>
-                <p><strong>Название картины:</strong> Ecce Homo («Се человек»)</p>
-                <p><strong>Год создания</strong>: 1543 г.</p>
-                <p><strong>Материал, техника:</strong> холст, масло</p>
-                <p><strong>Размер:</strong> : 242 х 361 см</p>
-                <p><strong>Местонахождение:</strong> Музей истории искусств, Вена</p>
-                <p><strong>Ссылка на сайт: </strong><a href="hthttps://www.khm.at/en/objectdb/detail/1944/?offset=9&lv=list">hthttps://www.khm.at/en/objectdb/detail/1944/?offset=9&lv=list</a> </p>
-                        <p><strong>&nbsp;</strong></p>
-                        <p><strong>Описание: </strong><p>Название картины является прямой цитатой из Евангелия от Иоанна: именно эти слова сказал Понтий Пилат толпе, показывая Иисуса Христа в багрянице и терновом венце. В переводе это означает «Се человек», на что толпа, согласно тексту, ответила: «Распни его, распни». Данный сюжет в иконографии появляется лишь с периода Возрождения. Известно, что картина написана для фламандского купца. Несмотря на то, что фигура Христа смещена влево, её легко заметить благодаря композиционному решению: воин в зелёном одеянии на переднем плане, повернутый к зрителю спиной, выделяется колористически и словно бы выходит за пределы полотна, направляя взгляд прямо на Спасителя, на которого он сам смотрит. Христос изображён страдающим: на нём багряница – торжественное верхнее одеяние, на голове терновый венец, а руки сложены накрест. Рядом на ступенях стоит Понтий Пилат, произносящий свои слова и указывающий на Христа рукой. Перед ними раскинулась шумящая толпа, изображённая в динамичных позах: руки людей ликующе подняты вверх, а воины вторят толпе, подняв свои алебарды. Примечателен образ юноши в левом углу картины, обнимающего собаку. Его выражение лица отличается от остальных участников сцены: вероятно, он осознаёт трагедию и ужас происходящего.</p>
-                </div>
+              </div>
+            </div>
+            <div>
+              <p>Картина Шарля де Лафосса (Charles de La Fosse) &laquo;Хождение Христа по водам&raquo; (ок. 1700 г.) &ndash; выдающийся образец французского барокко, созданный одним из главных мастеров эпохи Людовика XIV. Это произведение демонстрирует синтез итальянских влияний (особенно Веронезе и Рубенса) и французской декоративной традиции. Эта картина была создана для Версальской капеллы около 1700 года. Лафосс писал этот сюжет дважды (ранее в 1680-е), однако первоначальный вариант был утрачен. На картине видна работа со светотенью: Христос сияет, идя навстречу апостолам. Рыбаки смотрят с ужасом и удивлением на человека, идущего по воде. Окрашенными светлыми остаются только Иисус, небо и вода, по которой идет Спаситель. Нам очень ярко показывают выражения лиц апостолов, когда они видят Иисуса. Лафосс использует типичную дял его зрелого периода палитру: лазорево-синий (цвет плаща Христа), киноварно-красный и перламутрово-серый. Картна передает театральную динамику и наполнена холодным светом.</p>
             </div>
 
-            <p><strong>&nbsp;</strong></p>
-            <p><strong>&nbsp;</strong></p>
-
-            <p><strong>Дополнительные ссылки:</strong></p>
-            <p>&nbsp;</p>
-            <ul>
-            <li>Другие эскизы из графического цикла &laquo;Библейские эскизы&raquo; художника Александра Иванова: &laquo;Предание Христа на распятие&raquo; (<a href="https://my.tretyakov.ru/app/masterpiece/45602"><u>https://my.tretyakov.ru/app/masterpiece/45602</u></a>), &laquo;Поругание Христа&raquo; (<a href="https://my.tretyakov.ru/app/masterpiece/47544"><u>https://my.tretyakov.ru/app/masterpiece/47544</u></a>), &laquo;Поругание Христа у первосвященника Каиафы&raquo; (<a href="https://my.tretyakov.ru/app/masterpiece/49746"><u>https://my.tretyakov.ru/app/masterpiece/49746</u></a>).</li>
-            </ul>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации7.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> Джеймс Тиссо</p>
+                  <p><strong>Название картины</strong>: Хождение по водам</p>
+                  <p><strong>Год создания:</strong> 1&nbsp; гг.</p>
+                  <p><strong>Материал, техника: </strong>холст, акварель.</p>
+                  <p><strong>Размер:</strong> 200 х 185 см.</p>
+                  <p><strong>Местонахождение:</strong> Бруклинский музей</p>
+                  <p><strong>Ссылка на источник: </strong></p>
+                  <p><a href="https://www.art-giotto.ru/txt/5arh08.shtml"><strong>https://www.art-giotto.ru/txt/5arh08.shtml</strong></a></p>
+                </div>
+              </div>
             </div>
-        </div>
-    </div>
+            <div>
+              <p>Этот евангельский сюжет - популярнейший в иконописи и живописи.</p>
+              <p>Хотя он повествует о первом чуде, явленном Христом, мистичность в трактовке мастера заключается только в наличии нимбов над головами святых. Во всем остальном картина удивительно реалистично передает веселье сельского праздника, благодаря которой Джотто выявляет революционность манеры. Интересно, как щательно прорисована каждая фигура. Все люди наделены собственными характерами и поведением, что было относительно необычно для итальянского искусства того времени.</p>
+              <p>Жених и невеста сидят в центре композиции, в то время как многие другие гости наслаждаются большими кувшинами с вином и обильными угощениями. Джотто любил включать в свои картины архитектурные детали, и в верхней части композиции мы видим красиво оформленный потолок с декоративными элементами, расположенными над посетителями. Джотто снова выделяет фигуры с помощью золотых нимбов, помогая нам определить наиболее важные фигуры в каждой работе. Справа также добавлен небольшой дверной проём, который не даёт картине казаться слишком тесной. Обычно главные персонажи сцен у Джотто отличаются достоинством и внушительностью, сосредоточенностью, однако роспись капеллы дель Арена включают в себя не только фигуры подобного высокого образного строя. Но среди них также множество и второстепенных персонажей, более динамичных.</p>
+            </div>
+
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации8.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник: </strong>Неизвестен</p>
+                  <p><strong>Название картины</strong>: Брак в Кане Галилейской</p>
+                  <p><strong>Год создания:</strong> 1460-1480 гг.</p>
+                  <p><strong>Материал, техника: </strong>холст, масло</p>
+                  <p><strong>Размер:</strong> 93 х 72 см.</p>
+                  <p><strong>Местонахождение:</strong> Музей Бойманса-ван Бёнингена, Роттердам, Нидерланды.</p>
+                  <p><strong>Ссылка на источник: </strong></p>
+                  <p><a href="https://www.boijmans.nl/en/collection/in-depth/jheronimus-bosch-the-devil-maker"><strong>https://www.boijmans.nl/en/collection/in-depth/jheronimus-bosch-the-devil-maker</strong></a></p>
+                </div>
+              </div>
+            </div>
+            <div>
+             <p>&laquo;Брак в Кане&raquo;, находящийся в собрании музея Бойсманса ван Бёнингена (Роттердам), сейчас считается копией или имитацией позднего последователя Босха, выполненной в промежутке между 1560-1580 гг. Она не слишком хорошо сохранилась: верхние углы доски срезаны, а головы персонажей имеют явные следы постороннего вмешательства. Сложная структура &laquo;Брака в Кане&raquo;, изобилующая не совсем понятными нам деталями, &mdash; это &laquo;мысли вслух&raquo; о человеке, в котором стремление к земным наслаждениям уживается с надеждой на спасение души. Детали и фигуры, которые ученик или последователь Босха вводит в эту сцену, нетрадиционны для иконографии &laquo;Брака в Кане&raquo;. Такова, например, уменьшенная в размере фигура в церковном облачении, стоящая на переднем плане подобно донаторам, но спиной к зрителю. Некоторые исследователи считают, что это распорядитель пира, а фигура его уменьшена, чтобы не загораживать изображение жениха и невесты.</p>
+              <p>В традиционный сюжет первого чуда, сотворенного Христом, &ndash; превращение воды в вино вводятся новые элементы мистерии. Псаломщик, который стоит, воздев руки, перед женихом и невестой, музыкант на импровизированной галерее, церемониймейстер, показывающий на выставленную парадную посуду тонкой работы, слуга, который падает в обморок, &ndash; все эти фигуры в полной мере неожиданны и необычны для изображаемого сюжета и являются теми подробностями, которые убеждают нас в достоверности происходящего.</p>
+            </div>
+
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации9.jpg"  class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> Герард Давид</p>
+                  <p><strong>Название картины</strong>: Брак в Кане Галилейской</p>
+                  <p><strong>Год создания:</strong> ок. 1500 г.</p>
+                  <p><strong>Материал, техника: </strong>дерево, масло.</p>
+                  <p><strong>Размер:</strong> &nbsp;96 х 128 см.</p>
+                  <p><strong>Местонахождение:</strong> Лувр, Париж, Франция</p>
+                  <p><strong>Ссылка на источник: </strong></p>
+                  <p><a href="https://collections.louvre.fr/en/ark:/53355/cl010061836"><strong>https://collections.louvre.fr/en/ark:/53355/cl010061836</strong></a></p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <p>Давид Герард &ndash; нидерландский живописец эпохи раннего Северного Возрождения. В тщательно прописанных сюжетах Жерар Давид обнаружил простую повседневную красоту. Многие персонажи портретно похожи на современников автора. Фигуры хорошо прорисованы, сцена детализирована. Лица людей спокойны, они бесстрастно созерцают происходящее чудо.</p>
+              <p>Цветовое богатство и пристальное внимание к деталям в произведениях Герарда Давида типичны для североевропейской живописи XV и XVI столетий. Интересно, что Заказчики картины (донаторы) включены в композицию как гости празднества, в виде коленопреклоненных фигур с молитвенно сложенными руками. Считается, что евангельский сюжет лишь повод для художника рассказать о прекрасном свадебном пире, на котором присутствуют Христос и Дева Мария.</p>
+              <p>Картина была приобретена для Лувра в 1683 году королём Людовиком XIV, который считал заботу о пополнении коллекций произведений искусства своей прямой обязанностью и очень интересовался искусством Нидерландов.</p>
+            </div>
+
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации10.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> Ян К. Вермейен</p>
+                  <p><strong>Название картины</strong>: Брак в Кане Галилейской</p>
+                  <p><strong>Год создания: </strong>ок. 1530-1532 гг.</p>
+                  <p><strong>Материал, техника: </strong>холст, масло</p>
+                  <p><strong>Размер: </strong>66,4 х 85 см.</p>
+                  <p><strong>Местонахождение:</strong> Рейксмусеум, Амстердам, Нидерланды.</p>
+                  <p><strong>Ссылка на источник: </strong></p>
+                  <p><a href="https://www.rijksmuseum.nl/en/collection/object/The-Marriage-at-Cana--a9c70d5ad88d3ab49630a44168906608">https://www.rijksmuseum.nl/en/collection/object/The-Marriage-at-Cana--a9c70d5ad88d3ab49630a44168906608</a></p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <p>В этой ночной сцене &mdash; новинке в живописи того времени &mdash; Вермееру удалось создать драматический эффект. Свет свечей играет на лицах и отбрасывает тёмные тени.</p>
+              <p>Для изображения пламени Вермеер использовал сусальное золото. Он намного опередил своё время: только около 1600 года ноктюрн как жанр стал более широко известен благодаря итальянскому художнику Караваджо.</p>
+              <p>Интересно, что на картине мы не видим ни одного человек, который был бы повернут к нам спиной, как это было у Босха. Одежда и предметы вокруг персонажей не характерны для культурной обстановки времен Христа, использованы предметы обихода в Нидерландах того времени. В отличие от итальянских версий данного сюжета, Вермейен смог добавить на полотно больше бытовых элементов (посуда, еда), что сделало картину более живой и настоящей.</p>
+              <p>Бутылки с вином находятся за пределами кадра. Реакция других людей за столом указывает на то, что только что произошло нечто чудесное.</p>
+            </div>
+
+            <div class="row ml-4">
+              <div class="col-auto drawGallery" >
+                <img src="img/element/5_серия/ПримерыИнтерпретации11.jpg" class="img-fluid">
+              </div>
+              <div class="col d-flex mt-3">
+                <div class="description">
+                  <p><strong>Художник:</strong> Б. Мурильо</p>
+                  <p><strong>Название картины</strong>: Брак в Кане Галилейской</p>
+                  <p><strong>Год создания:</strong> 1672 г.</p>
+                  <p><strong>Материал, техника: </strong>холст, масло.</p>
+                  <p><strong>Размер:</strong> 179 х 235 см.</p>
+                  <p><strong>Местонахождение:</strong> Институт изящных искусств Барбера, Бирмингем, Великобритания.</p>
+                  <p><strong>Ссылка на источник: </strong></p>
+                  <p><a href="https://twibe.net/thread/679341"><strong>https://twibe.net/thread/679341</strong></a></p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <p>Творчество Бартоломео Мурильо включает в себя религиозные и жанровые картины. Одной из таких стало полотно &laquo;Брак в Кане Галилейской&raquo;. Эта картина стала ярким примером испанского барокко, где религиозный сюжет наполнен теплотой, жизненной энергией и изысканной светотенью. Мурильо изображает сцену как торжественный, но камерный праздник, избегая помпезности в пользу естественности и лиризма.</p>
+              <p>В центре картины сидят жених с невестой, освещенные ярким солнечным лучом. Фигуры Христа и Богоматери не доминируют над остальными людьми, но как бы становятся частью общей радости. Слуги в право части картины спешат наполнить кувшины, Христос протягивает к ним руку, и происходит чудо. Гости оживленно беседуют, автор запечатлевает этот момент, что создает эффект &laquo;остановленного мгновения&raquo;. Мурильо использует &laquo;золотистую дымку&raquo; (характерную для его зрелых работ), смягчающую контуры и придающую сцене благоговейную мягкость. У Мурильо нет пафоса Караваджо или монументальности Веронезе &mdash; его сцена домашняя и трогательная.</p>
+            </div>
+
+          <p><strong>&nbsp;</strong></p>
+          <p><strong>&nbsp;</strong></p>
+          <p><strong>&nbsp;</strong></p>
+          <p><strong>&nbsp;</strong></p>
 
         <div class="over over-menu-16">
         <button type="button" class="btn btn-close close"></button>
-        <h2>Иконография</h2>
-        <ul class="menu-top-over">
-        
-        </ul>
-
-        <div class="content-full op3">
-            <div class="content-full-text">
-
-                <iframe class="PDFReader" src="PDFReader/web/viewer.html?file=../files/Иконография _Моления о чаше_.pdf"></iframe>
-
-            </div>
         </div>
-    </div>
-
-
-
-        <div class="over over-menu-5">
-                <button type="button" class="btn btn-close close"></button>
-                <h2>Справочные материалы</h2>
-                <div class="content-full op3"></div>
-
-                <div class="reference_box">
-
-                    <div class="reference">
-                <h2>Справочные материалы</h2>
-
-                    </div>
-                    <div class="reference_content"></div>
-                </div>
-
-
-            </div>
             `,
   },
   {
@@ -6761,7 +6760,7 @@ const interFASE = [
         
         </ul>
 
-        <div class="content-full op3">
+        <div class="content-full op3 examples">
             <div class="content-full-text">
             <p><strong>&nbsp;</strong></p>
 
@@ -6770,7 +6769,7 @@ const interFASE = [
             <strong class="content-title-h2">Отечественная живопись</strong>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/2_серия/ПримерыИнтерпретации1.jpg" alt="Чудесный улов" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6793,7 +6792,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery">
                 <img src="img/element/2_серия/ПримерыИнтерпретации2.jpg" alt="Чудесный улов" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6816,7 +6815,7 @@ const interFASE = [
             <strong class="content-title-h2">Зарубежная (европейская) живопись</strong>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery">
                 <img src="img/element/2_серия/ПримерыИнтерпретации3.jpg" alt="Чудесный улов" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6837,7 +6836,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/2_серия/ПримерыИнтерпретации4.jpg" alt="Чудесный улов" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6857,7 +6856,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/2_серия/ПримерыИнтерпретации5.jpg" alt="Чудесный улов" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6881,7 +6880,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/2_серия/ПримерыИнтерпретации6.jpg" alt="Чудесный улов" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">
@@ -6901,7 +6900,7 @@ const interFASE = [
             </div>
 
             <div class="row ml-4">
-              <div class="col-auto drawGallery" style="width: 400px" >
+              <div class="col-auto drawGallery" >
                 <img src="img/element/2_серия/ПримерыИнтерпретации7.jpg" alt="Чудесный улов" class="img-fluid">
               </div>
               <div class="col d-flex mt-3">

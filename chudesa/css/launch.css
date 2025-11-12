@@ -3187,8 +3187,16 @@ body.mobile #close_mobile {
     margin: 4px;
 }
 
-.mostPopular {
+.most-popular {
   text-align: center;
+}
+
+.most-popular .drawGallery img {
+  width: 450px;
+}
+
+.examples .drawGallery img {
+  width: 450px;
 }
 
 .row {
