@@ -131,7 +131,7 @@ function SCRIPT_scene_1() {
         </div>
 
         <div id="scane_1" class="scane_left">
-            <h1 class="h1_scane_1_1">АПОСТОЛЫ</h1>
+            <h1 class="h1_scane_1_1"></h1>
             <div class="scane_1_list">` +
       tempList +
       `</div>
@@ -641,7 +641,7 @@ function SCRIPT_scene_6() {
         </div>
 
         <div id="scane_1" class="scane_left">
-            <h1 class="h1_scane_1_1">АПОСТОЛЫ</h1>
+            <h1 class="h1_scane_1_1"></h1>
             <div class="scane_1_list">` +
       tempList +
       `</div>
@@ -2858,7 +2858,7 @@ function SCRIPT_scene_41() {
         </div>
 
         <div id="scane_1" class="scane_left">
-            <h1 class="h1_scane_1_1">АПОСТОЛЫ</h1>
+            <h1 class="h1_scane_1_1"></h1>
             <div class="scane_1_list">` +
       tempList +
       `</div>
