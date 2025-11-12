@@ -4870,6 +4870,8 @@ frontDefault = [
 const interFASE = [
   {
     logo: `
+    
+            <img class="top_logo_pro" src="img/system/logo4.png">
             <img class="top_logo_pro" src="img/system/logo1.png">
             <img class="top_logo_pro" src="img/system/logo2.png">
             <img class="top_logo_pro" src="img/system/logo3.png">
@@ -4877,6 +4879,7 @@ const interFASE = [
             <img class="top_logo_pro" src="img/system/logo5.png">
             <img class="top_logo_pro" src="img/system/logo6.png">
             <img class="top_logo_pro" src="img/system/logo7.png">
+            <img class="top_logo_pro" src="img/system/logo9.png">
         `,
     menu: "",
     over: "",
