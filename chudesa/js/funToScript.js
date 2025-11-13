@@ -118,14 +118,19 @@ function SCRIPT_scene_1() {
     `
         <div id="scane_1" class="scane_right">
             <div class="scane_1_box">
-                <h3 class="h1_scane_1">Тайная вечеря. Икона из Успенского собора Кирилло-Белозерского </h3>
-                <div class="p_scane_1">
-                <p>Год создания:</strong> 1497<br /><strong>Материалы, техника:</strong> дерево, паволока, левкас, темпера<br /><strong>Размер:</strong> 83,5 х 63 х 2,5<br /><strong>Местоположение:</strong> Государственный Русский музей</p>
-                <p><strong>Описание:</strong> До того, как попасть в Государственный Русский музей, икона располагалась в праздничном чине иконостаса Успенского собора, существующего до сих пор. Отстроенный в камне в 1497 году, он входит в ансамбль Кирилло-Белозерского монастыря, который располагается в Вологодской области в городе Кириллове. Иконы были написаны специально для собора тремя мастерами, представляющими московскую школу иконописи, &ndash; имена их неизвестны.</p>
-                <p>За основу сюжета взята евангельская сцена, описанная в Новом Завете и повествующая о пасхальной трапезе Иисуса со своими ближайшими учениками, во время которой он установил таинство Евхаристии, ставшее важным священнодействием в христианской вере, и рассказал о предательстве Иуды Искариота.</p>
-                <p>Икона в полной мере передает это событие. В основе ее композиции лежат две соединенные стеной столпообразные палаты, задающие пространство Сионской горницы, где по сюжету происходила трапеза. А также стол желтоватого цвета, на котором изображены хлеб и чаша с вином: вокруг него на скамье сидят апостолы. В данной сцене запечатлён момент, когда Иисус рассказывает о предательстве одного из учеников. Фигура Спасителя изображена слева от апостолов и выделена золотым сиянием над головой &ndash; нимбом. Иуду Искариота, будущего предателя, на иконе отличает сакраментальный жест руки &ndash; она протянута к чаше, что буквально цитирует слова из Евангелия: &laquo;&hellip;опустивший со Мною руку в блюдо, этот предаст Меня&raquo;<a href="#_ftn1" name="_ftnref1">[1]</a>.</p>
-                <p>&nbsp;</p>
-                <p><a href="#_ftnref1" name="_ftn1">[1]</a> Евангелие от Матфея 26:23.</p>
+                <h3 class="h1_scane_1">Брак в Кане</h3>
+                <div class="p_scane_1"
+                <<p><strong>Автор/школа:</strong> Дионисий</p>
+<p><strong>Время создания</strong>: 1502 г.</p>
+<p><strong>Материал, техника</strong>: фреска (роспись по центральному поперечному нефу).</p>
+<p>Размер:</p>
+<p><strong>Местоположение:</strong> Собор Рождества Богородицы Ферапонтова монастыря, Россия</p>
+<p>&nbsp;</p>
+<p><strong>Описание</strong>: Ферапонтов Белозерский Богородице-Рождественский монастырь &mdash; мужской монастырь Вологодской епархии Русской православной церкви, расположенный в селе Ферапонтово Кирилловского района Вологодской области; один из древнейших монастырей Русского Севера, основанный в XIV столетии. В течение 400 лет обитель являлась важнейшим культурным и религиозным просветительным центром Белозерского края. До нашего времени монастырь дошёл в строениях XIV&mdash;XVII веков и росписях прославленного иконописца Дионисия.</p>
+<p>Согласно тексту летописи на откосе северной двери он расписан Дионисием и его сыновьями с 6 августа по 8 сентября 1502 г. Это единственная сохранившаяся роспись выдающегося представителя московской иконописной школы, главного художника рубежа XV&mdash;XVI веков. Площадь стенописи собора 600 м&sup2;. Она является единственной документально подтверждённой росписью мастера. Индивидуальность настенной живописи Дионисия &mdash; в неповторимом тональном богатстве мягких цветов, ритмической гармонии многочисленных сюжетов в сочетании с архитектурными членениями собора. Особенности взаимосвязи между сюжетными циклами (Акафист Богородице, Вселенские соборы, Страшный суд и другие) и отдельными композициями как внутри собора, так и снаружи, колористическое многообразие и философская глубина определяют значение стенописи собора Рождества Богородицы. Среди памятников православного круга стенопись собора выделяет полная сохранность никогда не поновлявшейся авторской живописи.</p>
+<p>Ферапонтов монастырь с росписью Дионисия является редким образцом сохранности и стилевого единства русского северного монастырского ансамбля XV&mdash;XVII веков, раскрывающего типичные особенности архитектуры времени формирования Русского централизованного государства. Ансамбль Ферапонтова монастыря &mdash; яркий пример гармоничного единения с практически не изменившимся с XVII века естественным окружающим ландшафтом, подчёркивающим особый духовный строй северного монашества, в то же время раскрывающим особенности хозяйственного уклада северного крестьянства.</p>
+<p>Здания монастыря, единственные на Русском Севере, сохранили все характерные особенности декора и интерьеров. Ансамбль монастыря &mdash; единственный полностью сохранившийся в России от начала XVI века пример взаимодействия архитектуры и стенописи, созданной самым выдающимся мастером эпохи.</p>
+<p>С советского времени в стенах Ферапонтова монастыря находится Музей фресок Дионисия &mdash; филиал Кирилло-Белозерского музея-заповедника. Сессия ЮНЕСКО внесла в 2000 году монастырь в список Всемирного наследия.</p>
                 </div>
             </div>
         </div>
@@ -554,8 +559,8 @@ function SCRIPT_scene_5(size) {
                 <div class="img_1 button-interactive btn-menu" data-container="6" style="
                 text-align: center;
             ">
-                                <img src="img/element/inv_22283_ikona_Molenie_o_chashe.png" style="
-                                width: 60%;
+                                <img src="img/element/3_ИКОНА.png" style="
+                                width: 70%;
                                 margin-top: calc(var(--index) * 0.75);
             ">
                             </div>
@@ -563,7 +568,7 @@ function SCRIPT_scene_5(size) {
             </div>
             <div class="box_2">
                 <div class="img_2 button-interactive" data-case="11">
-                    <img src="img/element/FKGA_KP-1374_Zh-110_Ayvazovskiy_I_K_Molenie_o_chashe_dlya_proekta.jpg">
+                    <img src="img/element/3_Картина.png">
                 </div>
                 <div class="title_head_2">
                 серия:
@@ -808,7 +813,7 @@ function SCRIPT_scene_11(size) {
                 <div class="img_1 button-interactive btn-menu" data-container="12" style="
                 text-align: center;
             ">
-                                <img src="img/element/Икона_Распятие.png" style="
+                                <img src="img/element/7_ИКОНА.jpg" style="
                                 width: 60%;
                                 margin-top: calc(var(--index) * 0.05);
             ">
@@ -817,7 +822,7 @@ function SCRIPT_scene_11(size) {
             </div>
             <div class="box_2">
                 <div class="img_2 button-interactive" data-case="15">
-                    <img src="img/element/Картина_Распятие.png" style="
+                    <img src="img/element/7_картина.png" style="
                                 width: 85%;
             ">
                 </div>
@@ -1107,7 +1112,7 @@ function SCRIPT_scene_14(size) {
                 <div class="img_1 button-interactive btn-menu" data-container="18" style="
                 text-align: center;
             ">
-                                <img src="img/element/3.png" style="
+                                <img src="img/element/4_ИКОНА.jpg" style="
                                 width: 60%;
                                 margin-top: calc(var(--index) * 0.05);
             ">
@@ -1116,7 +1121,7 @@ function SCRIPT_scene_14(size) {
             </div>
             <div class="box_2">
                 <div class="img_2 button-interactive" data-case="17">
-                    <img src="img/element/Картина_Суд Синедриона1.png" style="
+                    <img src="img/element/4_картина.png" style="
                                 width: 150%;
             ">
                 </div>
@@ -1160,8 +1165,8 @@ function SCRIPT_scene_15(size) {
                 <div class="img_1 button-interactive btn-menu" data-container="21" style="
                 text-align: center;
             ">
-                                <img src="img/element/Икона_Приведение к Пилату.png" style="
-                                width: 54%;
+                                <img src="img/element/5_икона.jpg" style="
+                                width: 85%;
                                 margin-top: calc(var(--index) * 0.05);
             ">
                             </div>
@@ -1169,7 +1174,7 @@ function SCRIPT_scene_15(size) {
             </div>
             <div class="box_2">
                 <div class="img_2 button-interactive" data-case="18">
-                    <img src="img/element/Картина_Приведение к Пилату.png" style="
+                    <img src="img/element/5_картина.png" style="
                                 width: 85%;
             ">
                 </div>
@@ -1213,7 +1218,7 @@ function SCRIPT_scene_16(size) {
                 <div class="img_1 button-interactive btn-menu" data-container="25" style="
                 text-align: center;
             ">
-                                <img src="img/element/5.png" style="
+                                <img src="img/element/6_икона.jpg" style="
                                 width: 60%;
                                 margin-top: calc(var(--index) * 0.05);
             ">
@@ -1222,8 +1227,8 @@ function SCRIPT_scene_16(size) {
             </div>
             <div class="box_2">
                 <div class="img_2 button-interactive" data-case="19">
-                    <img src="img/element/Картина_Путь на Голгофу.png" style="
-                                width: 85%;
+                    <img src="img/element/6_картина.png" style="
+                                width: 130%;
             ">
                 </div>
                 <div class="title_head_2">
@@ -1266,17 +1271,17 @@ function SCRIPT_scene_17(size) {
                 <div class="img_1 button-interactive btn-menu" data-container="29" style="
                 text-align: center;
             ">
-                                <img src="img/element/Икона_Погребение Христа.png" style="
-                                width: 60%;
-                                margin-top: calc(var(--index) * 0.05);
+                                <img src="img/element/2_икона.jpg" style="
+                                width: 80%;
+                                margin-top: calc(var(--index) * 0.15);
             ">
                             </div>
 
             </div>
             <div class="box_2">
                 <div class="img_2 button-interactive" data-case="20">
-                    <img src="img/element/Картина_Погребение Христа.png" style="
-                                width: 150%;
+                    <img src="img/element/2_Картина_Лосенко.png" style="
+                                width: 130%;
             ">
                 </div>
                 <div class="title_head_2">
@@ -1319,8 +1324,8 @@ function SCRIPT_scene_11(size) {
                 <div class="img_1 button-interactive btn-menu" data-container="12" style="
                 text-align: center;
             ">
-                                <img src="img/element/Икона_Распятие.png" style="
-                                width: 60%;
+                                <img src="img/element/7_ИКОНА.jpg" style="
+                                width: 85%;
                                 margin-top: calc(var(--index) * 0.05);
             ">
                             </div>
@@ -1328,8 +1333,8 @@ function SCRIPT_scene_11(size) {
             </div>
             <div class="box_2">
                 <div class="img_2 button-interactive" data-case="15">
-                    <img src="img/element/Картина_Распятие.png" style="
-                                width: 85%;
+                    <img src="img/element/7_картина.png" style="
+                                width: 175%;
             ">
                 </div>
                 <div class="title_head_2">
@@ -2843,8 +2848,8 @@ function SCRIPT_scene_40(size) {
                 <div class="img_1 button-interactive btn-menu" data-container="41" style="
                 text-align: center;
             ">
-                                <img src="img/element/Икона_Распятие.png" style="
-                                width: 60%;
+                                <img src="img/element/8_Икона.png" style="
+                                width: 50%;
                                 margin-top: calc(var(--index) * 0.05);
             ">
                             </div>
@@ -2852,7 +2857,7 @@ function SCRIPT_scene_40(size) {
             </div>
             <div class="box_2">
                 <div class="img_2 button-interactive" data-case="15">
-                    <img src="img/element/Картина_Распятие.png" style="
+                    <img src="img/element/8_картина.jpg" style="
                                 width: 85%;
             ">
                 </div>
